@@ -13,10 +13,6 @@ public class MainActivity extends Activity
 	public static final String CREATE_FILE="Create File";
 	public static final int FILE_RESULT_CODE=1;
 	public static final int NEW_FILE_CODE=2;
-	@Override
-	public void onPointerCaptureChanged(boolean hasCapture)
-	{
-	}
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
